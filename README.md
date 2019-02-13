@@ -1,5 +1,5 @@
-# Shopping Results Desktop
+# Tests for Google Direct Answers Box API
 
-[![Build Status](https://travis-ci.org/serpapi/test-shopping-results-desktop.svg?branch=master)](https://travis-ci.org/serpapi/test-shopping-results-desktop)
+[![Build Status](https://travis-ci.org/serpapi/test-google-direct-answers-box-api.svg?branch=master)](https://travis-ci.org/serpapi/test-google-direct-answers-box-api)
 
-Tests for SerpApi Shopping results on desktop
+Tests for Google Direct Answers Box API

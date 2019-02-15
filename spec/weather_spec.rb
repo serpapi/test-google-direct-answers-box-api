@@ -20,7 +20,8 @@ describe "SerpApi JSON" do
     end
 
     it "contains weather result" do
-      expect(@json["answer_box"]["result"]).to eq  "Mostly Cloudy"
+      expect(@json["answer_box"]["result"]).to be_an(String)
+      expect(@json["answer_box"]["result"]).to_not be_empty
     end
 
   end
